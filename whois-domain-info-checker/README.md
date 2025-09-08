@@ -5,10 +5,10 @@ It allows users to fetch WHOIS information for one or more domains and automatic
 
 ## INSTALLATION:
 1. Download the project:
-  	•	Go to the whois-domain-info-checker folder
-	•	Click the “Code” button → Download ZIP
-	•	Extract the ZIP file on your system.
-	•	Open a terminal and navigate into the extracted folder:
+•	Go to the whois-domain-info-checker folder
+•	Click the “Code” button → Download ZIP
+•	Extract the ZIP file on your system.
+•	Open a terminal and navigate into the extracted folder:
    ```bash
    cd Cantilever-main/whois-domain-info-checker
    ```
