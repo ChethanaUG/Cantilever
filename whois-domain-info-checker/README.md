@@ -14,6 +14,9 @@ It allows users to fetch WHOIS information for one or more domains and automatic
    ```bash
    python3 -m venv venv
    source venv/bin/activate   # On macOS/Linux
+   ```
+   ```bash
+   python3 -m venv venv
    venv\Scripts\activate      # On Windows
    ```
 
