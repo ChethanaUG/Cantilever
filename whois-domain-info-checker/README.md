@@ -31,11 +31,13 @@ It allows users to fetch WHOIS information for one or more domains and automatic
  Type done (or press Enter without typing anything) to finish and save results.
 
 Example session:
+```
  Please enter domain names one at a time. Type 'done' to finish and save the results.
  Enter domain name (or 'done' to finish): amazon.com
  Enter domain name (or 'done' to finish): google.com
  Enter domain name (or 'done' to finish): done
  ✅ All domain info saved successfully to 'domain_info.csv'.
+```
 
 ## OUTPUT:
  The results are saved in a file named domain_info.csv with fields:
