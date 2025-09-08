@@ -6,7 +6,7 @@ It allows users to fetch WHOIS information for one or more domains and automatic
 ## INSTALLATION:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WHOIS_Domain_Info_Checker.git
+   git clone https://github.com/ChethanaUG/WHOIS_Domain_Info_Checker.git
    cd cantilever/whois-domain-info-checker
    ```
    
