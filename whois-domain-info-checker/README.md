@@ -7,7 +7,7 @@ It allows users to fetch WHOIS information for one or more domains and automatic
 1. Clone the repository:
    ```bash
    git clone https://github.com/ChethanaUG/Cantilever.git
-   cd cantilever/whois-domain-info-checker
+   cd cantilever/WHOIS_Domain_Info_Checker
    ```
    
 2. Create and activate a virtual environment:
