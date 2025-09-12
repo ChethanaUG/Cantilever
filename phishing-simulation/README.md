@@ -75,4 +75,4 @@ All screenshots are in the `phishing-simulation/evidence/` folder.
 
 **Privacy note:** All personal/host names in screenshots are blurred. Only dummy credentials were used. Do not commit `creds.txt`, `usernames.txt`, `ip.txt` or any real credentials.
 
-##Note: Personal info/hostnames in screenshots have been blurred for privacy.
+**Note:** Personal info/hostnames in screenshots have been blurred for privacy.
