@@ -28,6 +28,8 @@ Local test URL used: `http://127.0.0.1:8080` (loopback/localhost — not accessi
 ## How I ran the tool (commands used locally)
 ```bash
 git clone https://github.com/htr-tech/zphisher.git
+```
+```bash
 cd zphisher
 chmod +x zphisher.sh
 bash zphisher.sh
