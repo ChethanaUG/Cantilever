@@ -1,7 +1,4 @@
 <?php
-// Author: Chethana UG
-// Date: 2025-09-12
-// Demo only: saves dummy credentials locally with timestamp
 
 $user = isset($_POST['user']) ? $_POST['user'] : '';
 $pass = isset($_POST['pass']) ? $_POST['pass'] : '';
