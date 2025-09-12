@@ -5,7 +5,7 @@ This repository contains evidence of a phishing page simulation as part of the C
 This project uses the open-source tool [Zphisher](https://github.com/htr-tech/zphisher), which was cloned and executed locally as per company guidelines.  
 I do not claim authorship of Zphisher. My contribution is running the tool, testing it with dummy data, and documenting the process with screenshots for educational purposes.
 
-# Phishing Page Simulation — Evidence & Plan (Public)
+# Phishing Page Simulation — Evidence & Plan
 
 **Purpose:** Evidence of running Zphisher for an educational exercise. Only dummy credentials were used.
 
