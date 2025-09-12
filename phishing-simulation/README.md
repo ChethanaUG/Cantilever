@@ -15,7 +15,6 @@ I do not claim authorship of Zphisher. My contribution is running the tool, test
 ---
 
 ## What is in this folder
-- `guideline/` — company guideline (PDF / image). *(If internal/confidential, do not upload this file to a public repo.)*  
 - `evidence/` — screenshots showing the steps I ran (personal info blurred).  
 - `phishing-demo/` — small educational demo (index.html + save.php) demonstrating local credential capture (dummy-only).
 
