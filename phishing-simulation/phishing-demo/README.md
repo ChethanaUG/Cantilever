@@ -10,12 +10,6 @@ Files:
 - `phishing-simulation/phishing-demo/index.html` — simple HTML login form (dummy only).  
 - `phishing-simulation/phishing-demo/save.php` — PHP script that saves submitted inputs to a local file (timestamped), eg. `creds_YYYYMMDD.txt`.
 
-### index.html (what it does)
-A minimal login form with fields for username and password. It posts via `POST` to `save.php`. The form is for demonstration only — do not use real credentials.
-### save.php (what it does)
-Receives `POST` data (`user` and `pass`), prepends a timestamp, and appends the entry to a local file named with the current date (for example `creds_20250912.txt`). This file is created only on the machine where the demo runs.
-
-
 ### How it works:
 1. Place both files in the same folder: `phishing-simulation/phishing-demo/` on your machine.  
 2. Start PHP built-in server from that folder:
