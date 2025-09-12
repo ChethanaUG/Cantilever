@@ -1,4 +1,4 @@
-## Phishing-demo (created by me)
+## Phishing-demo 
 
 **Author:** Chethana UG  
 **Date:** 2025-09-12
