@@ -12,6 +12,7 @@ Files:
 
 ### How it works:
 1. Place both files in the same folder: `phishing-simulation/phishing-demo/` on your machine. 
+
 Open Terminal and run:
 ```
  cd ~/Desktop/phishing-demo   #if phishing-demo folder is on your Desktop.
