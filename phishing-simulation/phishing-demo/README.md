@@ -11,8 +11,12 @@ Files:
 - `phishing-simulation/phishing-demo/save.php` — PHP script that saves submitted inputs to a local file (timestamped), eg. `creds_YYYYMMDD.txt`.
 
 ### How it works:
-1. Place both files in the same folder: `phishing-simulation/phishing-demo/` on your machine.  
-2. Start PHP built-in server from that folder:
+1. Place both files in the same folder: `phishing-simulation/phishing-demo/` on your machine. 
+Open Terminal and run:
+```
+ cd ~/Desktop/phishing-demo   #if phishing-demo folder is on your Desktop.
+```
+3. Start PHP built-in server from that folder:
 ```
 php -S 127.0.0.1:8080
 ```
