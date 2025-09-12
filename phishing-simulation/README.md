@@ -20,7 +20,7 @@ I do not claim authorship of Zphisher. My contribution is running the tool, test
 
 ---
 
-## Local URL used (safe to show)
+## Local URL used
 Local test URL used: `http://127.0.0.1:8080` (loopback/localhost — not accessible from the internet).
 
 ---
